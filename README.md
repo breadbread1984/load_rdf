@@ -17,7 +17,7 @@ download [SUBRELOBJ.nt.tar.gz](https://zenodo.org/records/10022727/files/SUBRELO
 ## convert to neo4j
 
 ```shell
-python3 load.py --password <password> 
+python3 load.py --password <password> --input_rdf <path/to/SUBRELOBJ.nt>
 ```
 
 ## browse the KG
