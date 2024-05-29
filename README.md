@@ -12,7 +12,7 @@ python3 -m pip install -r requirements.txt
 
 ## download serialized rdf file
 
-download [SUBRELOBJ.nt.tar.gz](https://zenodo.org/records/10022727/files/SUBRELOBJ.nt.tar.gz?download=1) file from [MatKG 1.3](https://zenodo.org/records/10022727) and extract.
+download [SUBRELOBJ.nt.tar.gz](https://zenodo.org/records/10022727/files/SUBRELOBJ.nt.tar.gz?download=1) file from [MatKG 1.3](https://zenodo.org/records/10022727) and extract the nt file.
 
 ## convert to neo4j
 
